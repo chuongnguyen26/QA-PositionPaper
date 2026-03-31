@@ -1,4 +1,4 @@
-# Qualitative Analysis Papers
+# Qualitative Research Papers
 
 | Year | Paper | Modeling Level | Meaning Making Level|
 | --- | --- | --- | --- |
