@@ -18,7 +18,7 @@
 | 2022 | [RESIN-11: Schema-guided event prediction for 11 newsworthy scenarios](https://aclanthology.org/2022.naacl-demo.7/) | L3 | L3 |
 | 2022 | [Scholastic: Graphical Human-AI Collaboration for Inductive and Interpretive Text Analysis](https://dl.acm.org/doi/10.1145/3526113.3545681) | L1 | L2 |
 | 2023 | [A Comprehensive Survey on Automatic Knowledge Graph Construction](https://dl.acm.org/doi/full/10.1145/3618295) | L1 | L1 |
-| 2023 | [A Survey on Event-Based News Narrative Extraction](https://dl.acm.org/doi/full/10.1145/3584741) | L2 | L1-L3 |
+| 2023 | [A Survey on Event-Based News Narrative Extraction](https://dl.acm.org/doi/full/10.1145/3584741) | L2 | L2 |
 | 2023 | [Exploring the Use of AI in Qualitative Analysis: A Comparative Study of Guaranteed Income Data](https://journals.sagepub.com/doi/full/10.1177/16094069231201504) | L1 | L4 |
 | 2023 | [From Voices to Validity: Leveraging Large Language Models (LLMs) for Textual Analysis of Policy Stakeholder Interviews](https://journals.sagepub.com/doi/full/10.1177/23328584251374595) | L1 | L3 |
 | 2023 | [LLM-in-the-loop: Leveraging Large Language Model for Thematic Analysis](https://arxiv.org/pdf/2310.15100) | L1 | L2 |
