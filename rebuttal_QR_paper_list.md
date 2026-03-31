@@ -34,9 +34,7 @@
 | 2013 | [entering-a-world-with-no-future-a-phenomenological-study-describing-the-embodied-experience-of-time-when-living-with-severe-incurable-disease](https://doi.org/10.1111/j.1471-6712.2012.01019.x) | L1 | L4 |
 | 2013 | [Faculty workload in a research intensive university: A case study](https://ideas.repec.org/p/cir/cirpro/2013rp-11.html) | L1 | L2 |
 | 2013 | [How gangs work: An ethnography of youth violence](https://link.springer.com/book/10.1057/9781137271518) | L2 | L4 |
-| 2013 | [Parenting under Pressure: a grounded theory of parenting young children with life-threatening congenital heart disease](https://drive.google.com/file/d/1BbeVWNjOxyPEL468HzP8NflwcPdSQVXM/view?usp=drive_link) | L4 - Low Level
-L2 - high level
-Final is L2 | L4 |
+| 2013 | [Parenting under Pressure: a grounded theory of parenting young children with life-threatening congenital heart disease](https://drive.google.com/file/d/1BbeVWNjOxyPEL468HzP8NflwcPdSQVXM/view?usp=drive_link) | L2 | L4 |
 | 2013 | [The good-enough science-and-politics of anthropological collaboration with evidence-based clinical research: Four ethnographic case studies](https://doi.org/10.1016/j.socscimed.2013.04.009) | L1 | L4 |
 | 2013 | [The viral nature of massive open online courses (MOOCs) in open and distance learning: Discourses of quality, mediation and control](https://doi.org/10.5901/mjss.2013.v4n3p665) | L1 | L4 |
 | 2013 | [the-role-of-maternal-self-care-in-new-motherhood](https://doi.org/10.1016/j.midw.2012.10.001) | L1 | L2 |
